@@ -9,7 +9,12 @@
 - [常见问题](#常见问题)
 - [插件列表](Plugins.md)
 
-*注意：为了安装的顺利进行，保险的方式是先卸载原来node, 删除C:\Users\用户名\AppData\Roaming下的npm, npm-cache目录*
+## 卸载老版本node
+
+- 删除node安装目录, 默认安装目录: C:\Program Files\nodejs
+- 删除npm数据文件, C:\Users\用户名\AppData\Roaming下的npm, npm-cache目录
+
+*注意: 此步非常重要*
 
 ## 安装NODE
 
