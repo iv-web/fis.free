@@ -16,6 +16,9 @@ module.exports = {
         "indent": ["error", 4, {
             "SwitchCase": 1
         }],
+        "linebreak-style": [
+            "off"
+        ],
         "comma-dangle": "warn",
         "no-param-reassign": "warn",
         "no-underscore-dangle": "off",
