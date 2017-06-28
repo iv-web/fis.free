@@ -126,7 +126,8 @@ npm install -g fis3-deploy-html-inline-merge fis3-deploy-pack fis3-hook-annotati
     fis3-hook-lego fis3-postpackager-inline fis3-postpackager-loader-common \
     fis3-postprocessor-autoprefixer fis3-preprocessor-js-require-css \
     fis3-preprocessor-js-require-file fis-optimizer-htmlmin fis-optimizer-png-compressor \
-    fis-parser-imweb-tpl fis-spriter-csssprites-group fis3-hook-ivweb
+    fis-parser-imweb-tpl fis-spriter-csssprites-group fis3-hook-ivweb fis3-hook-sys-node-modules \
+    cilint fis-parser-babel-5.x gulp-babel
 ```
 
 ## 试跑demo
